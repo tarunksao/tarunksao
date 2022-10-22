@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tarun.k.sao@gmail.com**
 
-- 📄 Know about my experiences [please click here to see my Resume](https://drive.google.com/file/d/1FWONF3UHX3-f3Gd7DGkLCDQYl8k3aFhW/view?usp=sharing)
+- 📄 Know about my experiences, here is [My Resume](https://drive.google.com/file/d/1FWONF3UHX3-f3Gd7DGkLCDQYl8k3aFhW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
