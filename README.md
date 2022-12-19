@@ -27,11 +27,11 @@
 ## My Interests
 <br/>
 
-- Learning new things.
+- 📖 Learning new things.
 
-- Reading Books
+- 📚 Reading Books
 
-- Traveling
+- 🚗 Traveling
 
 
 <br />
