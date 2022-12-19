@@ -27,7 +27,7 @@
 <h2 align="center"> 📱 Connect with me:</h2>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/tarun-kumar-sao-3289181a5/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/04/44/95/50/240_F_444955021_FWWTzkkE3xothICIUX3MY6SdpmlE1Y6t.jpg" alt="tarun-kumar-sao" height="40" width="50" /></a>
+<a href="https://tarunksao.github.io/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/04/44/95/50/240_F_444955021_FWWTzkkE3xothICIUX3MY6SdpmlE1Y6t.jpg" alt="tarun-kumar-sao" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/tarun-kumar-sao-3289181a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-sao" height="40" width="50" /></a>
 <a href="https://codesandbox.com/tarunksao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tarunksao" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/tarun_k_sao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarun_k_sao" height="40" width="50" /></a>
