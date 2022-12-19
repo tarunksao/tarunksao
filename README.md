@@ -1,6 +1,6 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://tarunksao.github.io/)
 <h1 align="center">Hi <img width="60px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Tarun Kumar Sao</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">An Aspiring MERN Developer</h3>
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunksao&label=Profile%20views&color=0e75b6&style=flat" alt="tarunksao" /> </p>
