@@ -42,7 +42,7 @@
 <a href="https://www.linkedin.com/in/tarun-kumar-sao-3289181a5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-sao" height="40" width="50" /></a>
 <a href="https://codesandbox.com/tarunksao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tarunksao" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/tarun_k_sao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarun_k_sao" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/user2597xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2597xi" height="40" width="50" /></a>
+<a href="https://leetcode.com/tarun_k_sao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2597xi" height="40" width="50" /></a>
 </p>
 
 <br />
